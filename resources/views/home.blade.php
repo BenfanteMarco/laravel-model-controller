@@ -17,9 +17,8 @@
 
 <body class="my-bg">
     <div>
-        <div class=" m-5 text-danger">
-            <h1>Movies</h1>
-            {{ dd($movies) }}
+        <div class=" m-5">
+            <h1 class="text-center">Movies</h1>
         </div>
         <div class="container py-5">
             <div class="row">
